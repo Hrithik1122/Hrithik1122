@@ -9,7 +9,7 @@ variety of conceiving information through a few projects.
 with challenges that let me acquire new informations & stretch in a different direction.<br>
 
 <p align="center">
-  <img src="https://github.com/Hrithik1122/rosekamallove/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/Hrithik1122/Hrithik1122/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
  ## Statistics
