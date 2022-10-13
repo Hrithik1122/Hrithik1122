@@ -1,4 +1,4 @@
-**Hi!**  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> **I’m Hrithik Bansal.** <br> 
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Hrithik Bansal](http://hrithikbansal.epizy.com)
 ```php
 echo "Let's proceed!\n";
 ```
@@ -19,6 +19,6 @@ with challenges that let me acquire new informations & stretch in a different di
 
 📫 You Can **Connect With ME** via any of the methods listed below:
 
-[![Website](https://img.shields.io/badge/Website-593D88?style=for-the-badge&logo=Google%20Earth&logoColor=white)](https://hrithikbansal.epizy.com/)  <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithikban) <br>
-[![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/hrithik1122?tab=repositories)
+[![Linkedin Badge](https://img.shields.io/badge/-Hrithikban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithikban/)](https://www.linkedin.com/in/hrithikban/)
+[![Github Badge](https://img.shields.io/badge/-Hrithik1122-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hrithik1122/)](https://github.com/hrithik1122/)
+[![Website Badge](https://img.shields.io/badge/-hrithikbansal.epizy.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=http://hrithikbansal.epizy.com/)](http://hrithikbansal.epizy.com/)
