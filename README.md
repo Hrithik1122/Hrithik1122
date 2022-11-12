@@ -3,7 +3,10 @@
 echo "Let's proceed!\n";
 ```
 **LET ME INTRODUCE MYSELF.🧑🏻‍💻** <br>
-> Hi! I'm Hrithik Bansal, currently working as a Software Developer Intern. <br>I am persuing Bachelor of Technology degree in CS from the Jaypee University of Engineering & Technology Guna. <br>Previously, I had done internships in few companies as a Web Developer, where I worked on Frontend, Backend and API's inside the company to utilized them to build various dashboard for our customers. Aside from work, I am also an open-source enthusiast and have created projects that were listed in GitHub trending.<br>
+> Hi! I'm Hrithik Bansal 👋, recently worked as a Software Developer Intern.
+<br> I am persuing Bachelor of Technology degree in CSE from the Jaypee University of Engineering & Technology Guna.
+<br> Previously, I had done internships in few companies as a Web Developer, where I worked on Frontend, Backend and API's inside the company to utilized them to build various dashboard for our customers. Now, I am well-versed with Php, Node.js and the REST API. 
+<br> Aside from work, I am also an open-source enthusiast and have created projects that were listed in GitHub trending.<br>
 
 <p align="center">
   <img src="https://github.com/Hrithik1122/Hrithik1122/blob/output/github-contribution-grid-snake.svg" alt="snake">
