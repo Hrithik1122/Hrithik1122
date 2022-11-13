@@ -19,6 +19,7 @@ echo "Let's proceed!\n";
 
 📫 You Can **Connect With ME** via any of the methods listed below:
 
+[![Mail Badge](https://img.shields.io/badge/-Hrithikbansal1122-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hrithikbansal1122@gmail.com)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-Hrithikban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithikban/)](https://www.linkedin.com/in/hrithikban/)
 [![Github Badge](https://img.shields.io/badge/-Hrithik1122-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hrithik1122/)](https://github.com/hrithik1122/)
 [![Website Badge](https://img.shields.io/badge/-hrithikbansal.epizy.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=http://hrithikbansal.epizy.com/)](http://hrithikbansal.epizy.com/)
