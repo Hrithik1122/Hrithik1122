@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Hrithik Bansal](http://hrithikbansal.epizy.com)
+# Hi there,  I'm [Hrithik Bansal](http://hrithikbansal.epizy.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ```php
 echo "Let's proceed!\n";
 ```
