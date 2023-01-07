@@ -13,7 +13,7 @@ echo "Let's proceed!\n";
 <br> Aside from work, I am also an open-source enthusiast and have created projects that were listed in GitHub trending.<br>
 
 <p align="center">
-  <img src="https://github.com/Hrithik1122/Hrithik1122/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/Hrithik1122/Hrithik1122/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
 
  ## Statistics
