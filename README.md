@@ -21,11 +21,11 @@ echo "Let's proceed!\n";
 
 <br/>
 
- ## Statistics
+<!--  ## Statistics
  <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrithik1122&show_icons=true&theme=midnight-purple&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik1122&exclude_repo=KNN-Image-Classification&show_icons=true&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8"/>
-</div>
+</div> -->
 
 <br/>
 
@@ -37,3 +37,8 @@ echo "Let's proceed!\n";
 [![Linkedin Badge](https://img.shields.io/badge/-Hrithikban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithikban/)](https://www.linkedin.com/in/hrithikban/)
 [![Github Badge](https://img.shields.io/badge/-Hrithik1122-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hrithik1122/)](https://github.com/hrithik1122/)
 [![Website Badge](https://img.shields.io/badge/-hrithikbansal.epizy.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=http://hrithikbansal.epizy.com/)](http://hrithikbansal.epizy.com/) 
+
+## Support
+<a href="https://www.buymeacoffee.com/hrithikbansal" target='_blank'> 
+    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="150" alt="Bhavya Khurana" ></img>
+</a>
