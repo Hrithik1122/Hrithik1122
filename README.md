@@ -21,11 +21,11 @@ echo "Let's proceed!\n";
 
 <br/>
 
-<!--  ## Statistics
+## Statistics
  <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrithik1122&show_icons=true&theme=midnight-purple&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik1122&exclude_repo=KNN-Image-Classification&show_icons=true&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8"/>
-</div> -->
+</div>
 
 <br/>
 
