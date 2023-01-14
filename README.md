@@ -38,7 +38,7 @@ echo "Let's proceed!\n";
 [![Mail Badge](https://img.shields.io/badge/-Connectwithhrithik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:connectwithhrithik@gmail.com)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-Hrithikban-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithikban/)](https://www.linkedin.com/in/hrithikban/)
 [![Github Badge](https://img.shields.io/badge/-Hrithik1122-black?style=flat&logo=github&logoColor=white&link=https://github.com/hrithik1122/)](https://github.com/hrithik1122/)
-[![Website Badge](https://img.shields.io/badge/-website-0A0A0A?style=flat&logo=About.me&logoColor=white&link=https://hrithikbansal.epizy.com/)](http://hrithikbansal.epizy.com/) 
+[![Website Badge](https://img.shields.io/badge/-website-0A0A0A?style=flat&logo=About.me&logoColor=white&link=https://hrithikbansal.epizy.com/)](https://hrithikbansal.epizy.com/) 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/hrithikbansal/)](https://dev.to/hrithikbansal/)
 
 ## Support
