@@ -33,13 +33,8 @@ echo "Let's proceed!\n";
 
 📫 You Can **Connect With ME** via any of the methods listed below:
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hrithikban/)](https://linkedin.com/in/hrithikban/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithhrithik@gmail.com)](mailto:connectwithhrithik@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://hrithikbansal.epizy.com/)](https://hrithikbansal.epizy.com/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hrithiikbansal/)](https://instagram.com/hrithiikbansal) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/hrithikbansal/)](https://dev.to/hrithikbansal/)
 
-
-[![Mail Badge](https://img.shields.io/badge/-Connectwithhrithik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:connectwithhrithik@gmail.com)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Hrithikban-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithikban/)](https://www.linkedin.com/in/hrithikban/)
-[![Github Badge](https://img.shields.io/badge/-Hrithik1122-black?style=flat&logo=github&logoColor=white&link=https://github.com/hrithik1122/)](https://github.com/hrithik1122/)
-[![Website Badge](https://img.shields.io/badge/-website-0A0A0A?style=flat&logo=About.me&logoColor=white&link=https://hrithikbansal.epizy.com/)](https://hrithikbansal.epizy.com/) 
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/hrithikbansal/)](https://dev.to/hrithikbansal/)
 
 ## Support
 <a href="https://www.buymeacoffee.com/hrithikbansal" target='_blank'> 
