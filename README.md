@@ -4,12 +4,12 @@ echo "Let's proceed!\n";
 ```
 
 **LET ME INTRODUCE MYSELF🧑🏻‍💻** <br>
-> Hi, I am Hrithik Bansal 👋, proficient in Web Development in a PHP, JavaScript and Node.js enthusiast.
-<br> I have over 1.5 Year experience and learning top-notch technologies that enhancing my skill sets.
+> Hi, I am Hrithik Bansal 👋, proficient in Web Development in a PHP, JavaScript, and Node.js enthusiast.
+<br> I have over 1.5 Year experience and learning top-notch technologies that enhance my skill sets.
 <br><br>My primary focus is on building Frontend, Backend web application. I love building Dynamic, responsive, interactive, and completely SEO-friendly web applications. 
-<br><br> - Frontend side I love to code in JavaScript, CSS3, and HTML5 together with frameworks like Bootstrap. 
+<br><br> - On the Frontend side I love to code in JavaScript, CSS3, and HTML5 together with frameworks like Bootstrap. 
 <br> - Backend side, love to work with PHP, MySQL, Node.Js and MongoDB.
-<br><br>Eager to learn new technologies every day. It is something that allows me to be creative, connect with people.
+<br><br>Eager to learn new technologies every day. It is something that allows me to be creative, and connect with people.
 <br> Aside from work, I am also an open-source enthusiast and have created projects that were listed in GitHub trending.<br>
 
 <br/>
