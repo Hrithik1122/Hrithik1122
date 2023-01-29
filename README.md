@@ -31,7 +31,7 @@ echo "Let's proceed!\n";
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=hrithik1122&theme=highcontrast&hide_border=true&currStreakLabel=8e00d5&fire=fffff1&ring=8e00d7)
 
-📫 You Can **Connect With ME** via any of the methods listed below:
+📫 You Can **Connect With ME** via any of the methods listed below: 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hrithikban/)](https://linkedin.com/in/hrithikban/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:connectwithhrithik@gmail.com)](mailto:connectwithhrithik@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://hrithikbansal.epizy.com/)](https://hrithikbansal.epizy.com/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hrithiikbansal)](https://instagram.com/hrithiikbansal) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/hrithikbansal)](https://dev.to/hrithikbansal)
 
