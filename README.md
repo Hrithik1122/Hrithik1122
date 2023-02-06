@@ -1,4 +1,4 @@
-# Hi there,  I'm [Hrithik Bansal](https://hrithikbansal.epizy.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there,  I'm [Hrithik Bansal](https://hrithikbansal.epizy.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hrithik Bansal">
 ```php
 echo "Let's proceed!\n";
 ```
@@ -16,15 +16,15 @@ echo "Let's proceed!\n";
 
 ## Watch my contribution graph get eaten by the snake 🐍
 <p align="center">
-  <img src="https://github.com/Hrithik1122/Hrithik1122/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://github.com/Hrithik1122/Hrithik1122/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" alt="Hrithik Bansal">
 </p>
 
 <br/>
 
 ## Statistics
  <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrithik1122&show_icons=true&theme=midnight-purple&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik1122&exclude_repo=KNN-Image-Classification&show_icons=true&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrithik1122&show_icons=true&theme=midnight-purple&hide_border=true&&count_private=true&include_all_commits=true" alt="Hrithik Bansal"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik1122&exclude_repo=KNN-Image-Classification&show_icons=true&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" alt="Hrithik Bansal"/>
 </div>
 
 <br/>
@@ -38,5 +38,5 @@ echo "Let's proceed!\n";
 
 ## Support
 <a href="https://www.buymeacoffee.com/hrithikbansal" target='_blank'> 
-    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="150" alt="Bhavya Khurana" ></img>
+    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="150" alt="Hrithik Bansal" ></img>
 </a>
