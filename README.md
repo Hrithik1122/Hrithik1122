@@ -15,9 +15,23 @@ echo "Let's proceed!\n";
 <br/>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-<p align="center">
-  <img src="https://github.com/Hrithik1122/Hrithik1122/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" alt="Hrithik Bansal">
-</p>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Hrithik1122/Hrithik1122/refs/heads/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Hrithik1122/Hrithik1122/refs/heads/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Hrithik1122/Hrithik1122/refs/heads/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
 <br/>
 
